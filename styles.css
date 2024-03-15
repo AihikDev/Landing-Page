@@ -189,6 +189,10 @@ img {
     gap: 100px;
 }
 
+.textContainer {
+    color: #f9faf8;
+}
+
 .textContainer p {
     font-size: 32px;
     font-weight: 700;
